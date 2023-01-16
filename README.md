@@ -2,6 +2,8 @@
 
 ## Perfect Dark Theme For VScode
 
+Perfect dark theme pro is built by dark green, blue and purple. It looks very cool whatever in the day or night.
+
 ![python](https://user-images.githubusercontent.com/57241764/212663839-ce0e368d-88d5-4977-b927-ac91df762001.png)
 
 
