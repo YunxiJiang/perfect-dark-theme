@@ -2,8 +2,8 @@
   "name": "perfect-dark-pro",
   "displayName": "Perfect Dark Pro",
   "description": "Perfect Dark Pro Theme",
-  "icon": "themes/theme_images/logo.png",
-  "version": "1.2.0",
+  "icon": "logo.png",
+  "version": "1.2.1",
   "publisher": "YunxiJiang",
   "repository": {
     "type": "git",
