@@ -1,0 +1,33 @@
+{
+  "name": "perfect-dark-pro",
+  "displayName": "Perfect Dark Pro",
+  "description": "Perfect Dark Pro Theme",
+  "version": "1.2.0",
+  "publisher": "YunxiJiang",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YunxiJiang/perfect-dark-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "perfect dark pro",
+    "perfect dark",
+    "dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Perfect Dark Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Perfect Dark Pro-color-theme.json"
+      }
+    ]
+  }
+}
