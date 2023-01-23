@@ -7,3 +7,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [1.2.1]
 
 - Change logo style
+
+## [1.2.2]
+
+- Change color of function-call.arguments
+- Change the market image size
